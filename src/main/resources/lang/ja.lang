@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness設定
+darknessBrightness=明るさレベル
+
+[chat]
+brightnesschanged=明るさ: <newValue>% (以前: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] 警告：別のMODが照明を変更しています。No Darknessが正しく動作しない可能性があります。MODの読み込み順序の最後にNo Darknessを移動してみてください。
+

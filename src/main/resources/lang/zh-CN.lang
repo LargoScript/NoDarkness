@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=无黑暗设置
+darknessBrightness=亮度级别
+
+[chat]
+brightnesschanged=亮度: <newValue>% (之前: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] 警告：另一个模组正在修改光照。No Darkness 可能无法正常工作。请尝试将 No Darkness 移动到模组加载顺序的底部。
+

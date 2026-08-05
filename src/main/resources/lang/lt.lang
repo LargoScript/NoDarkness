@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness Nustatymai
+darknessBrightness=Šviesos Lygis
+
+[chat]
+brightnesschanged=Šviesumas: <newValue>% (buvo: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Įspėjimas: Kitas modas keičia apšvietimą. No Darkness gali neveikti teisingai. Pabandykite perkelti No Darkness į modų įkėlimo eilės pabaigą.
+

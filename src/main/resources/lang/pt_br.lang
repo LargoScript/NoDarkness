@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=Configurações No Darkness
+darknessBrightness=Nível de Brilho
+
+[chat]
+brightnesschanged=Brilho: <newValue>% (era: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Aviso: Outro mod está modificando a iluminação. No Darkness pode não funcionar corretamente. Tente mover No Darkness para o final da ordem de carregamento de mods.
+

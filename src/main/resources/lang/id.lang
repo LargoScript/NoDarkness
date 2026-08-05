@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=Pengaturan No Darkness
+darknessBrightness=Tingkat Kecerahan
+
+[chat]
+brightnesschanged=Kecerahan: <newValue>% (sebelumnya: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Peringatan: Mod lain sedang memodifikasi pencahayaan. No Darkness mungkin tidak berfungsi dengan benar. Coba pindahkan No Darkness ke bagian bawah urutan pemuatan mod.
+

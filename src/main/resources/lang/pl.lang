@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=Ustawienia No Darkness
+darknessBrightness=Poziom Jasności
+
+[chat]
+brightnesschanged=Jasność: <newValue>% (było: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Ostrzeżenie: Inny mod modyfikuje oświetlenie. No Darkness może nie działać poprawnie. Spróbuj przenieść No Darkness na koniec kolejności ładowania modów.
+

@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness Postavke
+darknessBrightness=Razina Svjetline
+
+[chat]
+brightnesschanged=Svjetlina: <newValue>% (bilo: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Upozorenje: Drugi mod mijenja osvjetljenje. No Darkness možda neće raditi ispravno. Pokušajte premjestiti No Darkness na dno redoslijeda učitavanja modova.
+

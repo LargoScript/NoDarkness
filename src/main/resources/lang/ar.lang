@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=إعدادات No Darkness
+darknessBrightness=مستوى السطوع
+
+[chat]
+brightnesschanged=السطوع: <newValue>% (كان: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] تحذير: تعديل آخر يعدل الإضاءة. قد لا يعمل No Darkness بشكل صحيح. حاول نقل No Darkness إلى أسفل قائمة ترتيب تحميل التعديلات.
+

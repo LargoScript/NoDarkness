@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=Nastavení No Darkness
+darknessBrightness=Úroveň Jasnosti
+
+[chat]
+brightnesschanged=Jasnost: <newValue>% (bylo: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Varování: Jiný mod upravuje osvětlení. No Darkness nemusí fungovat správně. Zkuste přesunout No Darkness na konec pořadí načítání modů.
+

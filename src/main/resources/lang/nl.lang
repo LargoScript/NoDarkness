@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness Instellingen
+darknessBrightness=Helderheidsniveau
+
+[chat]
+brightnesschanged=Helderheid: <newValue>% (was: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Waarschuwing: Een andere mod wijzigt de verlichting. No Darkness werkt mogelijk niet correct. Probeer No Darkness naar de onderkant van de mod laadvolgorde te verplaatsen.
+

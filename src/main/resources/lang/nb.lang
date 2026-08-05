@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness Innstillinger
+darknessBrightness=Lysstyrkenivå
+
+[chat]
+brightnesschanged=Lysstyrke: <newValue>% (var: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Advarsel: En annen mod endrer belysningen. No Darkness fungerer kanskje ikke riktig. Prøv å flytte No Darkness til bunnen av modlastingsrekkefølgen.
+

@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=การตั้งค่า No Darkness
+darknessBrightness=ระดับความสว่าง
+
+[chat]
+brightnesschanged=ความสว่าง: <newValue>% (เดิม: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] คำเตือน: Mod อื่นกำลังแก้ไขแสง No Darkness อาจไม่ทำงานอย่างถูกต้อง ลองย้าย No Darkness ไปที่ด้านล่างของลำดับการโหลด mod
+

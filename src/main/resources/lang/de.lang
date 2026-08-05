@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness Einstellungen
+darknessBrightness=Helligkeitsstufe
+
+[chat]
+brightnesschanged=Helligkeit: <newValue>% (war: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Warnung: Ein anderer Mod ändert die Beleuchtung. No Darkness funktioniert möglicherweise nicht korrekt. Versuchen Sie, No Darkness an das Ende der Mod-Ladeliste zu verschieben.
+

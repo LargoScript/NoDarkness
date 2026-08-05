@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness Beállítások
+darknessBrightness=Fényerősség Szint
+
+[chat]
+brightnesschanged=Fényerősség: <newValue>% (volt: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Figyelmeztetés: Egy másik mod módosítja a világítást. A No Darkness nem működhet helyesen. Próbálja meg a No Darkness-t a mod betöltési sorrendjének aljára helyezni.
+

@@ -1,0 +1,22 @@
+# build output
+build/
+bin/
+.gradle/
+
+# IDE
+.idea/
+.vscode/
+
+# local docs / workshop tooling (kept out of the repo)
+*.md
+*.txt
+*.html
+*.ps1
+*.py
+*.bat
+!gradlew.bat
+Description/
+SteamWorkshopUpload/
+DEV_MOD_LAUNCH_FILES/
+docs/
+image/

@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=Configuració No Darkness
+darknessBrightness=Nivell de Brillantor
+
+[chat]
+brightnesschanged=Brillantor: <newValue>% (era: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Avís: Un altre mod està modificant la il·luminació. No Darkness pot no funcionar correctament. Intenteu moure No Darkness al final de l'ordre de càrrega de mods.
+

@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=Configuración No Darkness
+darknessBrightness=Nivel de Brillo
+
+[chat]
+brightnesschanged=Brillo: <newValue>% (era: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Advertencia: Otro mod está modificando la iluminación. No Darkness puede no funcionar correctamente. Intenta mover No Darkness al final del orden de carga de mods.
+

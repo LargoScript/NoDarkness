@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness Asetukset
+darknessBrightness=Kirkkausaste
+
+[chat]
+brightnesschanged=Kirkkaus: <newValue>% (oli: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Varoitus: Toinen mod muuttaa valaistusta. No Darkness ei välttämättä toimi oikein. Yritä siirtää No Darkness modien latausjärjestyksen loppuun.
+

@@ -1,0 +1,8 @@
+[settingsui]
+nodarknesssection=No Darkness Ayarları
+darknessBrightness=Parlaklık Seviyesi
+
+[chat]
+brightnesschanged=Parlaklık: <newValue>% (önceki: <oldValue>%)
+conflictwarning=⚠️ [NoDarkness] Uyarı: Başka bir mod aydınlatmayı değiştiriyor. No Darkness düzgün çalışmayabilir. No Darkness'ı mod yükleme sırasının en altına taşımayı deneyin.
+
